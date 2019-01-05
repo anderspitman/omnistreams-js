@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "arraybuffer-to-string": "^1.0.2",
+    "omnistreams-concurrent": "^0.1.0",
+    "omnistreams-core": "^0.2.0",
     "string-to-arraybuffer": "^1.0.2"
   }
 }
