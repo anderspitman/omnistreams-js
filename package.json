@@ -1,6 +1,6 @@
 {
   "name": "omnistreams",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "arraybuffer-to-string": "^1.0.2",
-    "omnistreams-concurrent": "^0.1.0",
-    "omnistreams-core": "^0.2.0",
+    "omnistreams-concurrent": "^0.2.0",
+    "omnistreams-core": "^0.3.0",
     "string-to-arraybuffer": "^1.0.2"
   }
 }
